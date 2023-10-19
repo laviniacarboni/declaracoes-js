@@ -1,0 +1,1 @@
+# declaracoes-js
